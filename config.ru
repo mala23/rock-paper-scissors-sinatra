@@ -1,4 +1,3 @@
-require 'rubygems'
-require File.join(File.dirname(__FILE__), './server.rb')
+require_relative 'server'
 
-run RPS-Sinatra
+run RPSSinatra
