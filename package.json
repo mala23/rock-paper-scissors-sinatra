@@ -1,0 +1,23 @@
+{
+  "name": "rock-paper-scissors-sinatra",
+  "version": "1.0.0",
+  "description": "A game of Rock, Paper, Scissors written in Ruby, built on Sinatra, tested with Cucumber and Rspec.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mala23/rock-paper-scissors-sinatra.git"
+  },
+  "author": "mala23",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mala23/rock-paper-scissors-sinatra/issues"
+  },
+  "homepage": "https://github.com/mala23/rock-paper-scissors-sinatra",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-haml2html": "^0.3.0"
+  }
+}
